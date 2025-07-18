@@ -10,7 +10,7 @@ Este proyecto busca:
 
 ## 🚀 **Cómo acceder al sitio**  
 El sitio está publicado en GitHub Pages:  
-🔗 [https://SamuelSC171106.github.io/Biblioteca-Cristiana/](https://SamuelSC171106.github.io/Biblioteca_Cristiana/)  
+🔗 [https://github.com/SamuelSC171106/Biblioteca-Cristiana/](https://github.com/SamuelSC171106/Biblioteca-Cristiana/)  
 
 ## 📂 **Contenido**  
 - 📖 **Devocionales**: Breves reflexiones diarias.  
@@ -29,7 +29,7 @@ El sitio está publicado en GitHub Pages:
 - **Reportar errores** (p. ej., enlaces rotos).  
 - **Sugerir mejoras**.
 
-**Escríbenos a:** ✉️ [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)  
+**Escríbenos a:** ✉️ [ericksamuelgohan@gmail.com](mailto:ericksamuelgohan@gmail.com)  
 *(Por favor, incluye en el asunto: "Colaboración - Biblioteca-Cristiana")*  
 
 
